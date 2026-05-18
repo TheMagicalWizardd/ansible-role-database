@@ -1,0 +1,1 @@
+Ansible Galaxy is een platform om Ansible roles te delen en opnieuw te gebruiken. Ik heb mijn webserver- en database-role in aparte GitHub repositories geplaatst, zodat ze via ansible-galaxy geïnstalleerd kunnen worden. Daarna gebruik ik deze roles in een nieuw playbook met een requirements.yml.
