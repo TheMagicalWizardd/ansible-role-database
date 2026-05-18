@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: database
+  author: Bram
+  description: Installs MySQL and creates dbuser
+  license: MIT
+  min_ansible_version: "2.15"
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+
+  galaxy_tags:
+    - mysql
+    - database
+
+dependencies: []
